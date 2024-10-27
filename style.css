@@ -154,6 +154,10 @@ a{
     border-radius: 10px;
 }
 
+.anouncements>div{
+    border-bottom: solid 1px rgba(122, 116, 116, 0.5);;
+}
+
 .trending{
     background-color: white;
     padding: 25px;
